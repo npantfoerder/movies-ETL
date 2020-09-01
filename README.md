@@ -2,5 +2,5 @@
 
 
 #### Resources
-- movies_metadata.csv and ratings.csv from https://www.kaggle.com/rounakbanik/the-movies-dataset
+- movies_metadata.csv, ratings.csv from https://www.kaggle.com/rounakbanik/the-movies-dataset
 - wikipedia-movies.json

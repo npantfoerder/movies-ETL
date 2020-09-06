@@ -1,1 +1,7 @@
 config.py
+.ipynb_checkpoints
+__pycache__
+#/config.cpython-37.pyc
+movielens_extract_transform.ipynb
+transform_wiki_data.ipynb
+.DS_Store
